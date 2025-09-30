@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/047f0284-eb58-4509-a93d-0c323a43e54d" /># sales_inventory_erp_analysis
+# sales_inventory_erp_analysis
 🔹 **Project Overview**
 
 This project demonstrates an ERP-style Sales & Inventory Dashboard built using Excel and Power BI. The dashboard integrates sales, inventory, and profit data to provide actionable insights for business decision-making.
