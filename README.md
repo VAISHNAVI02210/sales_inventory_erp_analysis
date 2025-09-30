@@ -1,9 +1,9 @@
-# sales_inventory_erp_analysis
-🔹 Project Overview
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/047f0284-eb58-4509-a93d-0c323a43e54d" /># sales_inventory_erp_analysis
+🔹 **Project Overview**
 
 This project demonstrates an ERP-style Sales & Inventory Dashboard built using Excel and Power BI. The dashboard integrates sales, inventory, and profit data to provide actionable insights for business decision-making.
 
-🔹 Key Features
+🔹 **Key Features**
 
 KPIs at a Glance: Total Sales, Total Profit, Total Quantity, and Average Order Value (AOV).
 
@@ -19,7 +19,7 @@ Stock Alerts: Conditional formatting highlights low stock items and reorder leve
 
 Data Cleaning & Transformation: Standardized date formats, converted order IDs, and applied formulas for stock remaining and profit calculation.
 
-🔹 Tools & Technologies
+🔹 **Tools & Technologies**
 
 Excel → Data cleaning, formulas (Stock Remaining, Record Level, Profit).
 
@@ -27,7 +27,7 @@ Power BI → Dashboard creation, KPIs, charts, and conditional formatting.
 
 GitHub → Project hosting and documentation.
 
-🔹 Project Workflow
+🔹 **Project Workflow**
 
 Data Preparation: Cleaned raw sales data (Quantity, Amount, States, Dates, Order IDs).
 
@@ -37,15 +37,11 @@ Power BI Dashboard: Imported cleaned dataset, created visuals and KPIs.
 
 ERP Simulation: Represented core ERP modules for Sales & Distribution and Inventory Control.
 
-🔹 Project Screenshots
-
-(Add your dashboard screenshots here for better presentation)
-
-🔹 How to Use
+🔹 **How to Use**
 
 Open the Power BI file (.pbix) to explore the dashboard.
 
-🔹 Project Insights
+🔹 **Project Insights**
 
 Helps businesses track sales performance, profit margins, and inventory levels.
 
@@ -53,7 +49,7 @@ Provides quick visibility into stock alerts for efficient inventory management.
 
 Simulates a mini-ERP system combining sales and inventory analytics.
 
-🔹 Author
+🔹 **Author**
 
 👩‍💻 Vaishnavi Kale
 (Aspiring Data Analyst | Skilled in Excel,power bi,sql,python
